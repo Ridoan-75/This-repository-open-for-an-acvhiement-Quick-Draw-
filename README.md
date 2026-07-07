@@ -10,10 +10,10 @@ This repository is dedicated to earning and tracking my GitHub Achievements whil
 - ⭐ Starstruck
 - ⚡ Quickdraw
 - 😎 YOLO
+- 🤝 Pair Extraordinaire
 
 ## 🎯 Next Goals
 
-- 🤝 Pair Extraordinaire
 - ❤️ Public Sponsor
 - 🧠 Galaxy Brain (If available)
 - 🚀 Any new GitHub achievements released in the future
